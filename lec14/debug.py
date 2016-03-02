@@ -22,7 +22,7 @@ for row in mat:
 # Now lets debug it with our shiny new python toy.
 #
 # Un-comment the line below to start the trace.
-# ipdb.set_trace()
+ipdb.set_trace()
 #
 # This is just like gdb!  Type 'h' to see the commands.
 #
